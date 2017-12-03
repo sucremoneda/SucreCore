@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Sucr
+Comment=Sucr P2P Cryptocurrency
+Comment[fr]=Sucr, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Sucr, eşten eşe kriptografik sanal para birimi
+Exec=sucr-qt %u
+Terminal=false
+Type=Application
+Icon=sucr128
+MimeType=x-scheme-handler/sucr;
+Categories=Office;Finance;

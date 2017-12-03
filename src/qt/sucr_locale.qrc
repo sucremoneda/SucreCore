@@ -1,0 +1,20 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/sucr_bg.qm</file>
+        <file alias="de">locale/sucr_de.qm</file>
+        <file alias="en">locale/sucr_en.qm</file>
+        <file alias="es">locale/sucr_es.qm</file>
+        <file alias="fi">locale/sucr_fi.qm</file>
+        <file alias="fr">locale/sucr_fr.qm</file>
+        <file alias="it">locale/sucr_it.qm</file>
+        <file alias="ja">locale/sucr_ja.qm</file>
+        <file alias="pl">locale/sucr_pl.qm</file>
+        <file alias="pt">locale/sucr_pt.qm</file>
+        <file alias="ru">locale/sucr_ru.qm</file>
+        <file alias="sk">locale/sucr_sk.qm</file>
+        <file alias="sv">locale/sucr_sv.qm</file>
+        <file alias="vi">locale/sucr_vi.qm</file>
+        <file alias="zh_CN">locale/sucr_zh_CN.qm</file>
+        <file alias="zh_TW">locale/sucr_zh_TW.qm</file>
+    </qresource>
+</RCC>

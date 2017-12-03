@@ -1,0 +1,6 @@
+usr/local/bin/sucr-qt usr/bin
+share/pixmaps/sucr32.xpm usr/share/pixmaps
+share/pixmaps/sucr16.xpm usr/share/pixmaps
+share/pixmaps/sucr128.png usr/share/pixmaps
+debian/sucr-qt.desktop usr/share/applications
+debian/sucr-qt.protocol usr/share/kde4/services/
