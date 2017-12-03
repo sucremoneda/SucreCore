@@ -20,7 +20,7 @@ To Build
 ```bash
 git clone https://github.com/sucremoneda/SucreCore.git
 
-git clone https://github.com/dashpay/dash.git  (to fix a bug in secp256k1)
+git clone https://github.com/dashpay/dash.git  # (to fix a bug in secp256k1)
 
 rm -rf ~/SucreCore/src/secp256k1
 cp -r ~/dash/src/secp256k1 ~/SucreCore/src/secp256k1
@@ -28,7 +28,7 @@ cp -r ~/dash/src/secp256k1 ~/SucreCore/src/secp256k1
 cd SucreCore
 find . -name "*.sh" -exec sudo chmod 755 {} \;
 ./autogen.sh
-./configure (or ./configure --without-gui)
+./configure # or ./configure --without-gui)
 make
 make install # optional
 ```
