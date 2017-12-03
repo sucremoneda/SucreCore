@@ -7,6 +7,10 @@ http://sucremoneda.net
 To Build Daemon in Ubuntu
 ---------------------
 
+Ready for Ubuntu 14.4: http://sucremoneda.net/dvbfg/sucre256.png
+
+or build from source below.
+
 ```bash
 sudo apt -y update && sudo apt -y install build-essential libssl-dev libdb++-dev libboost-all-dev libcrypto++-dev libqrencode-dev libminiupnpc-dev libgmp-dev libgmp3-dev autoconf autogen automake libtool autotools-dev pkg-config bsdmainutils software-properties-common libzmq3-dev libminiupnpc-dev libssl-dev libevent-dev
 
