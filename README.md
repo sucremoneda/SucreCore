@@ -24,7 +24,7 @@ cp -r ~/dash/src/secp256k1 ~/SucreCore/src/secp256k1
 cd SucreCore
 find . -name "*.sh" -exec sudo chmod 755 {} \;
 ./autogen.sh
-./configure # or ./configure --without-gui)
+./configure # or ./configure --without-gui
 make
 
 cd src
