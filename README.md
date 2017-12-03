@@ -7,7 +7,7 @@ http://sucremoneda.net
 To Build Daemon in Ubuntu
 ---------------------
 
-Ready for Ubuntu 14.4: http://sucremoneda.net/dvbfg/sucre256.png
+Ready for Ubuntu 14.4: http://sucremoneda.net/dvbfg/SUCRubuntu14.zip
 
 or build from source below.
 
