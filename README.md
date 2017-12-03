@@ -35,7 +35,7 @@ strip sucr-tx
 
 cp sucrd /usr/bin
 cp sucr-cli /usr/bin
-cp sucr-cli /usr/bin
+cp sucr-tx /usr/bin
 ```
 
 
