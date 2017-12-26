@@ -20,11 +20,6 @@ sudo apt-get install libdb4.8-dev libdb4.8++-dev -y
 
 git clone https://github.com/sucremoneda/SucreCore.git
 
-git clone https://github.com/dashpay/dash.git  # (to fix a bug in secp256k1)
-
-rm -rf ~/SucreCore/src/secp256k1
-cp -r ~/dash/src/secp256k1 ~/SucreCore/src/secp256k1
-
 cd SucreCore
 find . -name "*.sh" -exec sudo chmod 755 {} \;
 ./autogen.sh
