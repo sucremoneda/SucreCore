@@ -40,8 +40,8 @@ NOTE: Building with Qt4 is still supported, however, doing so could result in a 
 
 1. Clone the GitHub tree to get the source code and go into the directory.
 
-        git clone https://github.com/sucrpay/sucr.git
-        cd sucr
+        git clone https://github.com/sucremoneda/SucreCore
+        cd SucreCore
 
 2.  Build Sucr Core:
     This will configure and build the headless sucr binaries as well as the gui (if Qt is found).
